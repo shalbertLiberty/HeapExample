@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="partial_link_text">Looking for Digital Visiting card?
+<a href="https://www.google.com/">Get it here</a>
+</string>
+
+    <string name="sample_html_formatting">Some random sentence with &lt;u>&lt;span style=\"color:#06748c\">refresh&lt;/span>&lt;/u> in it.</string>
+</resources>
